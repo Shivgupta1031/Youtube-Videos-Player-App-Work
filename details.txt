@@ -1,0 +1,7 @@
+App Name : Bhojpuri Video Song
+App Package : jha.bhojpuri.video
+
+Keystore Details:
+Key Alias : bhojpurivideo
+Key Alias Password : bhojpurivideo@123
+Keystore Password : bhojpurivideo@123

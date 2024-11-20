@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YT Channel</string>
+
+    <string name="appId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="applovin_sdk_key" translatable="false">cv</string>
+
+</resources>

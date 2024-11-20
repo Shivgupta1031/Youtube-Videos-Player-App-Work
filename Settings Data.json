@@ -1,0 +1,19 @@
+[
+    {
+        "__id__": "App",
+        "admob_app_id": "gdf",
+        "applovin_sdk_key": "gfch",
+        "banner_id": "4e",
+        "interstitial_1": "4b02bbbb526e6c7b",
+        "interstitial_2": "inters2",
+        "interstitial_3": "inters3",
+        "interstitial_4": "inters4",
+        "interstitial_5": "inters5",
+        "interstitial_6": "inters6",
+        "interstitial_7": "inters7",
+        "one_signal_id": "fsgdgffsd",
+        "privacy_policy": "https://google.com",
+        "rewarded_id": "41ffce72b175ac71",
+        "show_ads": false
+    }
+]
